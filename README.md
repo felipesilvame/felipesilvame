@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Silva</h1>
 <h3 align="center">Fullstack web developer from Chile.</h3>
 
-- 📫 How to reach me **felipe@afeniel.com**
+- 📫 How to reach me **felipe@afeniel.cl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
